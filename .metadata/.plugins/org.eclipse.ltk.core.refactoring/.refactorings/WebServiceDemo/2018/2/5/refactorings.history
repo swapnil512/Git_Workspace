@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;WebServiceDemo&apos;&#x0D;&#x0A;- Original project: &apos;WebServiceDemo&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.web.service.HelloworldProxy.java&#x0D;&#x0A;     com.web.service.HelloworldService.java&#x0D;&#x0A;     com.web.service.HelloworldServiceLocator.java&#x0D;&#x0A;     com.web.service.HelloworldSoapBindingStub.java" description="Delete elements" element1="/src&lt;com.web.service{HelloworldServiceLocator.java" element2="/src&lt;com.web.service{HelloworldSoapBindingStub.java" element3="/src&lt;com.web.service{HelloworldService.java" element4="/src&lt;com.web.service{HelloworldProxy.java" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1517651695804" subPackages="false" version="1.0"/>
+</session>

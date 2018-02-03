@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="WebServiceDemoClient"/>
+			<item value="WebServiceDemo"/>
+			<item value="TestExampleForThis"/>
+			<item value="StringTokenizerDemo"/>
+			<item value="SS_ManagedBeansv1"/>
+			<item value="SS_BasicProgramming"/>
+			<item value="JSFDEmo"/>
+			<item value="HashmapDemo"/>
+			<item value="ExceptionHandling"/>
+			<item value="ChernoChat"/>
+			<item value="AssisgmentProject"/>
+			<item value="10.5-composite-components-5"/>
+			<item value="10.2-composite-components-2"/>
+			<item value="07.2-validation-v2"/>
+			<item value="07.1-validation-v1"/>
+		</list>
+		<list key="name">
+			<item value="AssisgmentProject"/>
+			<item value="07.2-validation-v2"/>
+			<item value="07.1-validation-v1"/>
+			<item value="05-i18n"/>
+			<item value="04-data-tables"/>
+			<item value="03-looping"/>
+			<item value="03-eventlistener"/>
+			<item value="02.2-managed-bean"/>
+			<item value="10.1-composite-components-1"/>
+			<item value="02.1-managed-bean"/>
+			<item value="MavenLoggingDemo"/>
+		</list>
+		<list key="artifactId">
+			<item value="WebServiceDemoClient"/>
+			<item value="WebServiceDemo"/>
+			<item value="TestExampleForThis"/>
+			<item value="StringTokenizerDemo"/>
+			<item value="SS_ManagedBeansv1"/>
+			<item value="SS_BasicProgramming"/>
+			<item value="JSFDEmo"/>
+			<item value="HashmapDemo"/>
+			<item value="ExceptionHandling"/>
+			<item value="ChernoChat"/>
+			<item value="AssisgmentProject"/>
+			<item value="10.5-composite-components-5"/>
+			<item value="10.2-composite-components-2"/>
+			<item value="07.2-validation-v2"/>
+			<item value="07.1-validation-v1"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
